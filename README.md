@@ -1,9 +1,6 @@
-# Cabrel TCHOFFO
-
-![Profile Picture](https://via.placeholder.com/150) <!-- Replace with your actual profile picture URL -->
-
-## 👋 Introduction
-Passionate DevOps and DevSecOps Engineer with expertise in Networking, Security, and Cloud Migration. I thrive on solving complex problems and am dedicated to building secure, scalable, and efficient systems.
+# Cabrel TCHOFFO 
+## About 😁
+I'm all about platform engineering and DevSecOps! I love digging into complex problems and building secure, scalable systems that just work.
 
 ## 🛠️ Skills and Technologies
 
