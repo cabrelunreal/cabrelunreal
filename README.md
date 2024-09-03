@@ -28,14 +28,10 @@ Passionate DevOps and DevSecOps Engineer with expertise in Networking, Security,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-### Pinned Repositories
-- [Repository 1](https://https://github.com/cabrelunreal/laraveldocker)
-- [Repository 2](https://github.com/cabrelunreal/nextjs-docker)
-
 ## 📫 Contact and Social Links
-- **Email**: [your.email@example.com](mailto:cabreltchoffo12@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)
+- **Email**: [cabreltchoffo12@gmail.com](mailto:cabreltchoffo12@gmail.com)
+- **LinkedIn**: [Cabrel Tchoffo](https://www.linkedin.com/in/cabrel-tchoffo-907206256)
+- **Twitter**: [Cabrel Tchoffo](https://twitter.com/cabrelunreal)
 
 ## 🌱 Fun Facts and Hobbies
 In my free time, I enjoy exploring AI solutions and contributing to open-source projects.
