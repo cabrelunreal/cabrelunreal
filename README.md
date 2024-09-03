@@ -35,9 +35,9 @@ I'm all about platform engineering and DevSecOps! I love digging into complex pr
 <p>
 <a href="[https://www.buymeacoffee.com/cabrelunreal]" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bedbug" />
 </a>
-</p> <br />
-
-<hr />
+</p> 
+<br/>
+<br/>
 
 ## 📫 Contact and Social Links
 - **Email**: [cabreltchoffo12@gmail.com](mailto:cabreltchoffo12@gmail.com)
